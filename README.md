@@ -1,0 +1,1 @@
+CV can be found here [https://GITHUB-USERNAME.github.io/rsschool-cv/cv](https://NikitaPytalev.github.io/rsschool-cv/cv).
