@@ -11,3 +11,8 @@ Pursuing a career in full-stack developement!
 Location: Gdańsk, Poland
 Email: nikita.pytalev@gmail.com
 GitHub: [@NikitaPytalev](https://github.com/NikitaPytalev)
+
+## Skills
+- .NET
+- node.js
+- and lots of other stuff...
