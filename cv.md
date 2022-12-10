@@ -19,3 +19,8 @@ GitHub: [@NikitaPytalev](https://github.com/NikitaPytalev)
 
 ## Education
 Irrelevant :)
+
+## Occupation
+- `2018 - 2019` iTechArt, Minsk
+- `2019 - 2022` EPAM, Minsk
+- `2022 - now`  EPAM, Gdańsk
