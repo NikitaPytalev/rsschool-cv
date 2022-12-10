@@ -16,3 +16,6 @@ GitHub: [@NikitaPytalev](https://github.com/NikitaPytalev)
 - .NET
 - node.js
 - and lots of other stuff...
+
+## Education
+Irrelevant :)
