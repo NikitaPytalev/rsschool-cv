@@ -24,3 +24,8 @@ Irrelevant :)
 - `2018 - 2019` iTechArt, Minsk
 - `2019 - 2022` EPAM, Minsk
 - `2022 - now`  EPAM, Gdańsk
+
+## Languages
+- English - C1
+- Belarusian - native
+- Russian - native
